@@ -67,7 +67,7 @@ Key features include:
 ## 💻 Tech Stack  
 - **Programming**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
-- **Platform**: Google Colab / Jupyter Notebook  
+- **Platform**: Google Colab
 
 ---
 
